@@ -54,7 +54,7 @@ addressDictionary = {}
 
 json_data = {}
 json_data['filename'] = opts.infile
-json_data['dat'] = {}
+json_data['dat'] = []
 
 index = 0
 
@@ -92,7 +92,7 @@ try:
             else:
                 json_resp = ''
 
-            json_data['dat'][index] = {}
+            json_data['dat'].append({})
             json_data['dat'][index]['phone']     = dat_phonenr
             json_data['dat'][index]['ip']        = dat_ipaddr
             json_data['dat'][index]['type']      = dat_TYPE

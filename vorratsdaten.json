@@ -1,6 +1,6 @@
 {
-    "dat": {
-        "0": {
+    "dat": [
+        {
             "address": "Fraum\u00fcnsterstr. 16 - Z\u00fcrich - 8001", 
             "datetime": "28/03/2018 18:37:55", 
             "ip": "10.54.226.78", 
@@ -106,7 +106,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "1": {
+        {
             "address": "Fraum\u00fcnsterstr. 16 - Z\u00fcrich - 8001", 
             "datetime": "28/03/2018 18:37:56", 
             "ip": "", 
@@ -212,7 +212,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "2": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:38:27", 
             "ip": "2Ao21216197293700000000000000001", 
@@ -317,7 +317,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "3": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:38:27", 
             "ip": "10.54.226.78", 
@@ -422,7 +422,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "4": {
+        {
             "address": "Fraum\u00fcnsterstr. 16 - Z\u00fcrich - 8001", 
             "datetime": "28/03/2018 18:38:27", 
             "ip": "", 
@@ -528,7 +528,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "5": {
+        {
             "address": "Fraum\u00fcnsterstr. 16 - Z\u00fcrich - 8001", 
             "datetime": "28/03/2018 18:38:27", 
             "ip": "10.54.226.78", 
@@ -634,7 +634,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "6": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:41:33", 
             "ip": "10.54.226.78", 
@@ -739,7 +739,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "7": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:41:34", 
             "ip": "", 
@@ -844,7 +844,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "8": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:42:12", 
             "ip": "2Ao21216197FBD160000000000000001", 
@@ -949,7 +949,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "9": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:42:12", 
             "ip": "10.54.226.78", 
@@ -1054,7 +1054,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "10": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:42:12", 
             "ip": "", 
@@ -1159,7 +1159,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "11": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:42:12", 
             "ip": "10.54.226.78", 
@@ -1264,7 +1264,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "12": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:43:43", 
             "ip": "10.54.226.78", 
@@ -1369,7 +1369,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "13": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:43:44", 
             "ip": "", 
@@ -1474,7 +1474,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "14": {
+        {
             "address": "Dreik\u00f6nigstr. 18 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:44:29", 
             "ip": "2Ao212161977oA500000000000000001", 
@@ -1580,7 +1580,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "15": {
+        {
             "address": "Dreik\u00f6nigstr. 18 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:44:29", 
             "ip": "10.54.226.78", 
@@ -1686,7 +1686,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "16": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:44:29", 
             "ip": "", 
@@ -1791,7 +1791,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "17": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:44:29", 
             "ip": "10.54.226.78", 
@@ -1896,7 +1896,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "18": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:54:31", 
             "ip": "10.54.226.78", 
@@ -2001,7 +2001,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "19": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:54:32", 
             "ip": "", 
@@ -2106,7 +2106,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "20": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:55:55", 
             "ip": "2Ao212161976298Ao000000000000001", 
@@ -2211,7 +2211,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "21": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:55:55", 
             "ip": "10.54.226.78", 
@@ -2316,7 +2316,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "22": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:55:55", 
             "ip": "", 
@@ -2421,7 +2421,7 @@
             "unkn2": "", 
             "unkn3": ""
         }, 
-        "23": {
+        {
             "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
             "datetime": "28/03/2018 18:55:55", 
             "ip": "10.54.226.78", 
@@ -2526,6 +2526,6 @@
             "unkn2": "", 
             "unkn3": ""
         }
-    }, 
+    ], 
     "filename": "vorratsdaten.csv"
 }
