@@ -1,0 +1,2531 @@
+{
+    "dat": {
+        "0": {
+            "address": "Fraum\u00fcnsterstr. 16 - Z\u00fcrich - 8001", 
+            "datetime": "28/03/2018 18:37:55", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "16", 
+                                "short_name": "16", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Fraum\u00fcnsterstrasse", 
+                                "short_name": "Fraum\u00fcnsterstrasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 1", 
+                                "short_name": "Kreis 1", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8001", 
+                                "short_name": "8001", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Fraum\u00fcnsterstrasse 16, 8001 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3687955, 
+                                "lng": 8.5410968
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3701444802915, 
+                                    "lng": 8.542445780291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3674465197085, 
+                                    "lng": 8.539747819708499
+                                }
+                            }
+                        }, 
+                        "partial_match": true, 
+                        "place_id": "ChIJ0REDgqqgmkcR-pjw-UvGbV8", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "32", 
+            "timestamp": 1522255075.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "1": {
+            "address": "Fraum\u00fcnsterstr. 16 - Z\u00fcrich - 8001", 
+            "datetime": "28/03/2018 18:37:56", 
+            "ip": "", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "16", 
+                                "short_name": "16", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Fraum\u00fcnsterstrasse", 
+                                "short_name": "Fraum\u00fcnsterstrasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 1", 
+                                "short_name": "Kreis 1", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8001", 
+                                "short_name": "8001", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Fraum\u00fcnsterstrasse 16, 8001 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3687955, 
+                                "lng": 8.5410968
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3701444802915, 
+                                    "lng": 8.542445780291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3674465197085, 
+                                    "lng": 8.539747819708499
+                                }
+                            }
+                        }, 
+                        "partial_match": true, 
+                        "place_id": "ChIJ0REDgqqgmkcR-pjw-UvGbV8", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "31", 
+            "timestamp": 1522255076.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "2": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:38:27", 
+            "ip": "2Ao21216197293700000000000000001", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "5", 
+            "timestamp": 1522255107.0, 
+            "type": "S-GSN", 
+            "unkn1": "3594060816520107", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "3": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:38:27", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "186", 
+            "timestamp": 1522255107.0, 
+            "type": "S-GSN", 
+            "unkn1": "3594060816520107", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "4": {
+            "address": "Fraum\u00fcnsterstr. 16 - Z\u00fcrich - 8001", 
+            "datetime": "28/03/2018 18:38:27", 
+            "ip": "", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "16", 
+                                "short_name": "16", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Fraum\u00fcnsterstrasse", 
+                                "short_name": "Fraum\u00fcnsterstrasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 1", 
+                                "short_name": "Kreis 1", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8001", 
+                                "short_name": "8001", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Fraum\u00fcnsterstrasse 16, 8001 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3687955, 
+                                "lng": 8.5410968
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3701444802915, 
+                                    "lng": 8.542445780291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3674465197085, 
+                                    "lng": 8.539747819708499
+                                }
+                            }
+                        }, 
+                        "partial_match": true, 
+                        "place_id": "ChIJ0REDgqqgmkcR-pjw-UvGbV8", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "5", 
+            "timestamp": 1522255107.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "5": {
+            "address": "Fraum\u00fcnsterstr. 16 - Z\u00fcrich - 8001", 
+            "datetime": "28/03/2018 18:38:27", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "16", 
+                                "short_name": "16", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Fraum\u00fcnsterstrasse", 
+                                "short_name": "Fraum\u00fcnsterstrasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 1", 
+                                "short_name": "Kreis 1", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8001", 
+                                "short_name": "8001", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Fraum\u00fcnsterstrasse 16, 8001 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3687955, 
+                                "lng": 8.5410968
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3701444802915, 
+                                    "lng": 8.542445780291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3674465197085, 
+                                    "lng": 8.539747819708499
+                                }
+                            }
+                        }, 
+                        "partial_match": true, 
+                        "place_id": "ChIJ0REDgqqgmkcR-pjw-UvGbV8", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "186", 
+            "timestamp": 1522255107.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "6": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:41:33", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "39", 
+            "timestamp": 1522255293.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "7": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:41:34", 
+            "ip": "", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "38", 
+            "timestamp": 1522255294.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "8": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:42:12", 
+            "ip": "2Ao21216197FBD160000000000000001", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "8", 
+            "timestamp": 1522255332.0, 
+            "type": "S-GSN", 
+            "unkn1": "3594060816520107", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "9": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:42:12", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "91", 
+            "timestamp": 1522255332.0, 
+            "type": "S-GSN", 
+            "unkn1": "3594060816520107", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "10": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:42:12", 
+            "ip": "", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "8", 
+            "timestamp": 1522255332.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "11": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:42:12", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "91", 
+            "timestamp": 1522255332.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "12": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:43:43", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "46", 
+            "timestamp": 1522255423.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "13": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:43:44", 
+            "ip": "", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "45", 
+            "timestamp": 1522255424.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "14": {
+            "address": "Dreik\u00f6nigstr. 18 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:44:29", 
+            "ip": "2Ao212161977oA500000000000000001", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "18", 
+                                "short_name": "18", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Dreik\u00f6nigstrasse", 
+                                "short_name": "Dreik\u00f6nigstrasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Dreik\u00f6nigstrasse 18, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3672643, 
+                                "lng": 8.53659
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.36861328029149, 
+                                    "lng": 8.537938980291504
+                                }, 
+                                "southwest": {
+                                    "lat": 47.36591531970849, 
+                                    "lng": 8.535241019708499
+                                }
+                            }
+                        }, 
+                        "partial_match": true, 
+                        "place_id": "ChIJKbp52QEKkEcR6yOaYgVzcCs", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "5", 
+            "timestamp": 1522255469.0, 
+            "type": "S-GSN", 
+            "unkn1": "3594060816520107", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "15": {
+            "address": "Dreik\u00f6nigstr. 18 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:44:29", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "18", 
+                                "short_name": "18", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Dreik\u00f6nigstrasse", 
+                                "short_name": "Dreik\u00f6nigstrasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Dreik\u00f6nigstrasse 18, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3672643, 
+                                "lng": 8.53659
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.36861328029149, 
+                                    "lng": 8.537938980291504
+                                }, 
+                                "southwest": {
+                                    "lat": 47.36591531970849, 
+                                    "lng": 8.535241019708499
+                                }
+                            }
+                        }, 
+                        "partial_match": true, 
+                        "place_id": "ChIJKbp52QEKkEcR6yOaYgVzcCs", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "602", 
+            "timestamp": 1522255469.0, 
+            "type": "S-GSN", 
+            "unkn1": "3594060816520107", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "16": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:44:29", 
+            "ip": "", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "5", 
+            "timestamp": 1522255469.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "17": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:44:29", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "602", 
+            "timestamp": 1522255469.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "18": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:54:31", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "84", 
+            "timestamp": 1522256071.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "19": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:54:32", 
+            "ip": "", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "83", 
+            "timestamp": 1522256072.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "20": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:55:55", 
+            "ip": "2Ao212161976298Ao000000000000001", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "5", 
+            "timestamp": 1522256155.0, 
+            "type": "S-GSN", 
+            "unkn1": "3594060816520107", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "21": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:55:55", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "138", 
+            "timestamp": 1522256155.0, 
+            "type": "S-GSN", 
+            "unkn1": "3594060816520107", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "22": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:55:55", 
+            "ip": "", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "5", 
+            "timestamp": 1522256155.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }, 
+        "23": {
+            "address": "Alfred-Escher-Str. 50 - Z\u00fcrich - 8002", 
+            "datetime": "28/03/2018 18:55:55", 
+            "ip": "10.54.226.78", 
+            "location": {
+                "results": [
+                    {
+                        "address_components": [
+                            {
+                                "long_name": "50", 
+                                "short_name": "50", 
+                                "types": [
+                                    "street_number"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Alfred Escher-Strasse", 
+                                "short_name": "Alfred Escher-Strasse", 
+                                "types": [
+                                    "route"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Kreis 2", 
+                                "short_name": "Kreis 2", 
+                                "types": [
+                                    "political", 
+                                    "sublocality", 
+                                    "sublocality_level_1"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "locality", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "Z\u00fcrich", 
+                                "types": [
+                                    "administrative_area_level_2", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Z\u00fcrich", 
+                                "short_name": "ZH", 
+                                "types": [
+                                    "administrative_area_level_1", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "Switzerland", 
+                                "short_name": "CH", 
+                                "types": [
+                                    "country", 
+                                    "political"
+                                ]
+                            }, 
+                            {
+                                "long_name": "8002", 
+                                "short_name": "8002", 
+                                "types": [
+                                    "postal_code"
+                                ]
+                            }
+                        ], 
+                        "formatted_address": "Alfred Escher-Strasse 50, 8002 Z\u00fcrich, Switzerland", 
+                        "geometry": {
+                            "location": {
+                                "lat": 47.3617871, 
+                                "lng": 8.5336573
+                            }, 
+                            "location_type": "ROOFTOP", 
+                            "viewport": {
+                                "northeast": {
+                                    "lat": 47.3631360802915, 
+                                    "lng": 8.535006280291503
+                                }, 
+                                "southwest": {
+                                    "lat": 47.3604381197085, 
+                                    "lng": 8.532308319708498
+                                }
+                            }
+                        }, 
+                        "place_id": "ChIJG6fRGvwJkEcRgpx2eFtn86o", 
+                        "types": [
+                            "street_address"
+                        ]
+                    }
+                ], 
+                "status": "OK"
+            }, 
+            "phone": "+41796069692", 
+            "rssi": "138", 
+            "timestamp": 1522256155.0, 
+            "type": "P-GW", 
+            "unkn1": "", 
+            "unkn2": "", 
+            "unkn3": ""
+        }
+    }, 
+    "filename": "vorratsdaten.csv"
+}
