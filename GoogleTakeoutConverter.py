@@ -41,11 +41,14 @@ try:
         for location in json_in['dat']:
             timestamp = location['timestamp']
             timestampMs = str(timestamp).split('.')[0] + '000'
-            json_data['locations'].append({})
-            json_data['locations'][index]['timestampMs'] = timestampMs
-            json_data['locations'][index]['latitudeE7']  = int(location['location']['results'][0]['geometry']['location']['lat']*pow(10, 7))
-            json_data['locations'][index]['longitudeE7'] = int(location['location']['results'][0]['geometry']['location']['lng']*pow(10, 7))
-            index += 1
+            if('geometry' in location['location']):
+                json_data['locations'].append({})
+                json_data['locations'][index]['timestampMs'] = timestampMs
+                # json_data['locations'][index]['latitudeE7']  = int(location['location']['results'][0]['geometry']['location']['lat']*pow(10, 7))
+                # json_data['locations'][index]['longitudeE7'] = int(location['location']['results'][0]['geometry']['location']['lng']*pow(10, 7))
+                json_data['locations'][index]['latitudeE7']  = int(location['location']['geometry']['lat']*pow(10, 7))
+                json_data['locations'][index]['longitudeE7'] = int(location['location']['geometry']['lng']*pow(10, 7))
+                index += 1
 
 
 
