@@ -1,5 +1,9 @@
 # Swisscom Vorratsdaten Analyse
 
+---
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 Tools zur Analyse der eigenen Vorratsdaten, die man von der Swisscom per Datenauskunftsbegehren verlangen kann.
 
 ![location_heatmap_schweiz.png](bilder/location_heatmap_schweiz.png)
